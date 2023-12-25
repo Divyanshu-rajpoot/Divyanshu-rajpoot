@@ -26,9 +26,7 @@
 ## 🤝 Connect with Me:
 
 - 📧 Feel free to reach out for collaborations or discussions.
-- 📫 Email: Di
-- 📱 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
+
 
 ## 🌈 Fun Facts:
 
