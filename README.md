@@ -21,7 +21,7 @@
 ## 👨‍💻 Open Source Contributions:
 
 - 🌟 Actively seeking opportunities to contribute to open-source projects.
-- 🔧 Currently working on Anime-world 
+- 🔧 Currently working on Random-Particles 
 
 ## 🤝 Connect with Me:
 
