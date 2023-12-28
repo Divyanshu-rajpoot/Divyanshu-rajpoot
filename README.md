@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack:
 
 - 💡 Proficient in HTML, CSS, JavaScript.
-- 🚀 Familiar with Tailwind css, Node js and Spring Boot.
+- 🚀 Familiar with Tailwind css, Node js and Spring Boot(not expert!!).
 - 🔍 Always eager to learn and adapt to emerging technologies.
 
 # 🌱 Currently Learning:
