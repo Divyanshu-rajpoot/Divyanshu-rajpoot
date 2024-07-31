@@ -31,6 +31,6 @@
 ## 🌈 Fun Facts:
 
 - "Code, Create, Contribute - the three Cs that drive my journey in tech!"
-- My Biggest Motivation "IRONMAN"
+- My Biggest Motivation - "To bring change."
 - Let's code the future together! 🚀✨
 
