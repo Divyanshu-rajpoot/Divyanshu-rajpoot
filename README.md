@@ -1,5 +1,5 @@
 ## 👋 Hello World! I'm Divyanshu Rajpoot
-- A passionate 20-year-old developer currently navigating the exciting realms of college life while diving deep into the world of web development and open source.
+- A passionate 21-year-old developer currently navigating the exciting realms of college life while diving deep into the world of web development and open source.
 
 ## 🚀 About Me:
 
