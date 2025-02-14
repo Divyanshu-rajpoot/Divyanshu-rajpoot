@@ -1,5 +1,5 @@
 ## 👋 Hello World! I'm Divyanshu Rajpoot
-- A passionate 21-year-old developer currently navigating the exciting realms of college life while diving deep into the world of web development and open source.
+- A passionate 21-year-old developer currently navigating the exciting realms of college life while diving deep into the world of development and open source, Building projects that stand out !! 
 
 ## 🚀 About Me:
 
@@ -9,14 +9,15 @@
 
 ## 🛠️ Tech Stack:
 
-- 💡 Proficient in HTML, CSS, JavaScript.
+- 💡 Proficient in HTML, CSS, JavaScript, Java , C .
 - 🚀 Familiar with Tailwind css, Node js and Spring Boot(not expert!!).
 - 🔍 Always eager to learn and adapt to emerging technologies.
 
 # 🌱 Currently Learning:
 
-- Exploring React js and Expressjs.
+- Building Projects like Ray Tracer and Game engine (2D).
 - Leveling up my skills in Data Structure and Algorithm.
+- Learning About Linux. 
 
 ## 👨‍💻 Open Source Contributions:
 
@@ -26,11 +27,12 @@
 ## 🤝 Connect with Me:
 
 - 📧 Feel free to reach out for collaborations or discussions.
+- Connect with me on Github Or LinkedIn.
 
 
 ## 🌈 Fun Facts:
 
 - "Code, Create, Contribute - the three Cs that drive my journey in tech!"
-- My Biggest Motivation - "To bring change."
+- My Biggest Motivation - "To bring change & to build Something ".
 - Let's code the future together! 🚀✨
 
