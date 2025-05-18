@@ -10,12 +10,12 @@
 ## 🛠️ Tech Stack:
 
 - 💡 Proficient in HTML, CSS, JavaScript, Java , C .
-- 🚀 Familiar with Tailwind css, Node js and Spring Boot(not expert!!).
+- 🚀 Familiar with Tailwind css, Node js and Spring Boot and Spring.
 - 🔍 Always eager to learn and adapt to emerging technologies.
 
 # 🌱 Currently Learning:
 
-- Building Projects like Ray Tracer and Game engine (2D).
+- Building Tools that can help developer in there day to day life.
 - Leveling up my skills in Data Structure and Algorithm.
 - Learning About Linux. 
 
