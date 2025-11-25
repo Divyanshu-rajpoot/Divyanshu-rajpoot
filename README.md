@@ -1,5 +1,5 @@
 ## 👋 Hello World! I'm Divyanshu 
-- A passionate 21-year-old developer currently navigating the exciting realms of college life while diving deep into the world of development and open source, Building projects that stand out !! 
+- A passionate 22-year-old developer currently navigating the exciting realms of Corporate life while diving deep into the world of development and open source, Building projects that stand out !! 
 
 ## 🚀 About Me:
 
