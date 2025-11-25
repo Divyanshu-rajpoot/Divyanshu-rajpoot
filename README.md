@@ -1,38 +1,35 @@
-## 👋 Hello World! I'm Divyanshu 
-- A passionate 22-year-old developer currently navigating the exciting realms of Corporate life while diving deep into the world of development and open source, Building projects that stand out !! 
+👋 Hey there! I'm Divyanshu
+A 22-year-old passionate developer making waves in the world of tech! Currently kickstarting my professional journey as a Java Developer at CG, with 6 months of hands-on experience in real-world projects. I thrive on building practical solutions and love creating tools that empower fellow developers!
 
-## 🚀 About Me:
+🚀 About Me
+🎓 Completed my B.Tech in Computer Science from GLA University.
 
-- 🎓 Studying Computer Science at GLA University.
-- 💻 Enthusiastic about web development and open-source contributions.
-- 🌐 Constantly exploring new technologies to expand my skill set.
+💻 Web development enthusiast, open source contributor, and active tech explorer.
 
-## 🛠️ Tech Stack:
+🌱 Always eager to experiment with new stacks and push my skill limits.
 
-- 💡 Proficient in HTML, CSS, JavaScript, Java , C .
-- 🚀 Familiar with Tailwind css, Node js and Spring Boot and Spring.
-- 🔍 Always eager to learn and adapt to emerging technologies.
+🛠️ Tech Toolbox
+Languages: Java (core focus), JavaScript, HTML, CSS, C
 
-# 🌱 Currently Learning:
+Frameworks: Spring Boot, Spring, jenkins 
 
-- Building Tools that can help developer in there day to day life.
-- Leveling up my skills in Data Structure and Algorithm.
-- Learning About Linux. 
+Currently Enhancing: Data Structures & Algorithms, Linux mastery , Devops
 
-## 👨‍💻 Open Source Contributions:
+Dev Focus: Building everyday developer tools, exploring new open source ideas.
 
-- 🌟 Actively seeking opportunities to contribute to open-source projects.
-- 🔧 Currently working on Random-Particles 
+🌟 Open Source & Projects
+🚩 Open to new open source collaborations—let’s build something great together!
 
-## 🤝 Connect with Me:
+🏗️ Currently developing: 2d game engine in java.
 
-- 📧 Feel free to reach out for collaborations or discussions.
-- Connect with me on Github Or LinkedIn.
+🤝 Let’s Connect!
+📧 Reach out for collaborations, brainstorming, or just a friendly chat!
 
+Find me on GitHub and LinkedIn
 
-## 🌈 Fun Facts:
+🌈 Fun Facts & Motto
+"Code, Create, Contribute — the three Cs powering my journey."
 
-- "Code, Create, Contribute - the three Cs that drive my journey in tech!"
-- My Biggest Motivation - "To bring change & to build Something ".
-- Let's code the future together! 🚀✨
+Biggest motivation: Building impactful solutions and shaping the future with code!
 
+Let’s code, learn, and innovate together. 🚀✨
