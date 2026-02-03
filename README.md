@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Divyanshu
 
-A 22-year-old passionate developer making waves in the world of tech! Currently kickstarting my professional journey as a **Java Developer at CG**, with 6 months of hands-on experience in real-world projects. I thrive on building practical solutions and love creating tools that empower fellow developers!
+A 22-year-old passionate developer making waves in the world of tech! Currently kickstarting my professional journey as a **Java Developer at CG**, with year of hands-on experience in real-world projects. I thrive on building practical solutions and love creating tools that empower fellow developers!
 
 ---
 
